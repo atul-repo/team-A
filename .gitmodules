@@ -1,0 +1,3 @@
+[submodule "subteam-A"]
+	path = subteam-A
+	url = git@github.com:atul-repo/subteam-A.git
